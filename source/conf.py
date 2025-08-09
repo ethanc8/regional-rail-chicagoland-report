@@ -16,13 +16,13 @@ sys.path.insert(0, os.path.abspath("./_ext"))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Epoch'
-copyright = '2025, Epoch members'
-author = 'Epoch members'
+project = 'Regional Rail for Chicagoland'
+copyright = '2025, Ethan C and contributors'
+author = 'Ethan C and contributors'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
-html_title = 'Epoch'
+html_title = 'Regional Rail for Chicagoland'
 
 
 # -- General configuration ---------------------------------------------------
